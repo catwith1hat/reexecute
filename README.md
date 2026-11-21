@@ -118,8 +118,6 @@ cd reexecute
 git submodule update --init --jobs 6
 ```
 
-> **Note**: When pushing forked submodules to GitHub, update `.gitmodules` URLs to point to the forked client repositories if cloning fresh on another machine, as upstream repositories do not carry the experimental `reexecute` commits.
-
 ### Run Verification Suites
 
 #### 1. Engine API OpenRPC Spec (`execution-apis`)

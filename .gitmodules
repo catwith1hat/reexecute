@@ -1,40 +1,40 @@
 [submodule "besu"]
 	path = besu
-	url = https://github.com/besu-eth/besu.git
+	url = https://github.com/catwith1hat/besu.git
 	shallow = true
 	branch = reexecute
 [submodule "reth"]
 	path = reth
-	url = https://github.com/paradigmxyz/reth.git
+	url = https://github.com/catwith1hat/reth.git
 	shallow = true
 	branch = reexecute
 [submodule "go-ethereum"]
 	path = go-ethereum
-	url = https://github.com/ethereum/go-ethereum.git
+	url = https://github.com/catwith1hat/go-ethereum.git
 	shallow = true
 	branch = reexecute
 [submodule "nethermind"]
 	path = nethermind
-	url = https://github.com/NethermindEth/nethermind.git
+	url = https://github.com/catwith1hat/nethermind.git
 	shallow = true
 	branch = reexecute
 [submodule "ethrex"]
 	path = ethrex
-	url = https://github.com/lambdaclass/ethrex.git
+	url = https://github.com/catwith1hat/ethrex.git
 	shallow = true
 	branch = reexecute
 [submodule "execution-apis"]
 	path = execution-apis
-	url = https://github.com/ethereum/execution-apis.git
+	url = https://github.com/catwith1hat/execution-apis.git
 	shallow = true
 	branch = reexecute
 [submodule "erigon"]
 	path = erigon
-	url = https://github.com/erigontech/erigon.git
+	url = https://github.com/catwith1hat/erigon.git
 	shallow = true
 	branch = reexecute
 [submodule "vouch"]
 	path = vouch
-	url = https://github.com/attestantio/vouch.git
+	url = https://github.com/catwith1hat/vouch.git
 	shallow = true
 	branch = reexecute
